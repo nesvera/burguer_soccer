@@ -1,6 +1,10 @@
 # burguer_soccer
 Turtlebot3 Burguer ball follower
 
+<p align="center">
+<img src="images/img1.jpeg" width="450" height="270">
+</p>
+
 Install usb_cam
 
     sudo apt-get install ros-kinetic-usb-cam 
