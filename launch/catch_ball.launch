@@ -1,0 +1,10 @@
+<launch>
+    <include file="$(find turtlebot3_bringup)/launch/turtlebot3_robot.launch" />
+    
+    <node pkg="usb_cam" type="usb_cam_node" name="usb_cam_node" output="screen"/>
+
+    <node pkg="turtlebot3_soccer" name="find_ball_node" type="find_ball.py" output="screen"/> 
+    
+    <node pkg="turtlebot3_soccer" name="decision_making_node" type="decision_making_.py" output="screen"/> 
+
+</launch>
