@@ -20,3 +20,7 @@ Execute
     roslaunch turtlebot3_bringup turtlebot3_robot.launch
     rosrun burguer_soccer find_ball.py
     rosrun burguer_soccer decision_making.py
+
+<p align="center">
+<img src="images/img3.png" width="240" height="320">
+</p>
