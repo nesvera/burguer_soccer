@@ -2,7 +2,7 @@
 Turtlebot3 Burguer ball follower
 
 <p align="center">
-<img src="images/img1.jpeg" width="240" height="320">
+<img src="images/img2.jpeg" width="240" height="320">
 </p>
 
 Install usb_cam
